@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+h1,h2,h3,ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #394a51;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 120px 0 120px;
+}
+
+main {
+    background-color: #fbf2d5;
+    width:960px;
+    margin: 0 auto;
+    background-image: url(../imgs/lacirlande.jpg);
+    background-repeat: no-repeat;
+    padding: 350px 185px 130px 90px;
+}
+
+h1 {
+    font-size: 24px;
+    letter-spacing: 8px;
+    color:#fdc57b;
+    font-weight: normal;
+    margin-bottom: -60px;
+    line-height: 26px;
+}
+
+img{
+    margin-bottom: 70px;
+    margin-top: 75px;
+}
+
+strong {
+    font-size: 20px;
+    line-height: 30px;
+    color:#7fa99b;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 80px;
+    color:black;
+    font-weight: normal;
+}
+
+cite {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; 
+    font-size: 20px;
+    display: block;
+    text-align: justify;
+    border-left: solid 1px #7fa99b;
+    padding-left: 20px;
+    margin: 45px 0 30px 0;
+}
+
+em{
+    color:#7fa99b;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    color:#7fa99b
+}
+
+ul {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+li{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: bold;
+    color:#394a51;
+    list-style-type: square;
+}
